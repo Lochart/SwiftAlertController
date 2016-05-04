@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "826cab5f3b2a90d26ad1e7197ef620ff"
+build_time: [515693793, 603447000]
+inputs:
+  "/Users/nikolay/Documents/FolderWorkSwift/AlertController/AlertController/AppDelegate.swift": [515692931, 0]
+  "/Users/nikolay/Documents/FolderWorkSwift/AlertController/AlertController/ViewController.swift": [515693793, 0]
